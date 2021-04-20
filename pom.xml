@@ -8,7 +8,7 @@
   
   <artifactId>maven-wrapper</artifactId>
   <version>0.5.7-SNAPSHOT</version>
-  <packaging>provisio</packaging>
+  <packaging>war</packaging>
   <name>Maven Wrapper</name>
   <licenses>
     <license>
