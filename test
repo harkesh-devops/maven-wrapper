@@ -1,0 +1,9 @@
+
+
+Parametrize Job (Choice Parameter [dev, qa,uat, production])
+
+Create file with choice Parameter name eg. dev.txt, qa.txt
+
+Copy this file to any server using SSH
+
+Trigger Email for confirmation
